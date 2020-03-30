@@ -1,0 +1,4 @@
+/* YOUR CUSTOM STYLES */
+.rating-item :hover {
+    cursor: pointer;
+}
